@@ -1,13 +1,5 @@
-td {
-    font-size: 50px ;
-    height: 60px ;
-    width: 60px ;
-    background-color: rgba(248, 218, 118, 0.507);
-    text-align: center;
-    border: 
-      3px
-      solid
-      black;
-    
-}
-
+  .cell {
+  td.width = 50
+  td.height = 50
+  td.bgColor = (x + y) % 2 ? "black" : "LightYellow";
+  }
