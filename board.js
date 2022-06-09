@@ -1,5 +1,5 @@
 function sayHi () {
-  alert('Hi man')
+  alert('hello chess')
 }
 sayHi()
 let chess = document.createElement("chess")
