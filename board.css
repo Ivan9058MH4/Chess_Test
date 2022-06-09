@@ -1,0 +1,5 @@
+  .cell {
+  td.width = 50
+  td.height = 50
+  td.bgColor = (x + y) % 2 ? "black" : "LightYellow";
+  }
